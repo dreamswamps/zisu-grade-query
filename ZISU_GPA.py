@@ -6,7 +6,7 @@ import requests
 # 如何修改查看ZISU.py
 # Cookie可能也需要修改
 gnmkdm = "N305005"
-Cookie = "JSESSIONID=0A4552D918D30CA25F37E0DAA2D8FA5E; _gscu_1377608482=43001041vxtmge80; route=baea72139749e3a8f14890547a15b498"
+Cookie = "JSESSIONID=5EB239D800851EEBF99CF4E0C8E540AD; _gscu_1377608482=43001041vxtmge80; route=baea72139749e3a8f14890547a15b498"
 
 # --------- 你只需要修改这里⚠ ---------  
 

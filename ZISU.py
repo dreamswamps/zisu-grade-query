@@ -9,7 +9,7 @@ gnmkdm = "N305005"
 
 #  每日的cookie都会改变，这个方法有待改进=-=
 #  获取cookie的方法：将完整的带有路径参数的网址置入浏览器中，并使用开发者工具，可以在网络方法中找到Cookie的值，对变量值进行替换即可
-Cookie = "JSESSIONID=0A4552D918D30CA25F37E0DAA2D8FA5E; _gscu_1377608482=43001041vxtmge80; route=baea72139749e3a8f14890547a15b498"
+Cookie = "JSESSIONID=5EB239D800851EEBF99CF4E0C8E540AD; _gscu_1377608482=43001041vxtmge80; route=baea72139749e3a8f14890547a15b498"
 
 # --------- 你只需要修改这里⚠ ---------  
 
