@@ -9,7 +9,7 @@
 - **Statistics Calculation** Calculates the credits and grade points for compulsory/elective courses, and calculate the annual GPA
 - **Result Display** Output the statistics reports in the terminal
 
-### [] Planned Features
+### [ ] Planned Features
 - **Automatic Session Management** Automatically get/refresh educational administration system session information and user authentication(Cookie/Headers)
 
 ## 🚀 Quick Start
