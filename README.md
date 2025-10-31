@@ -2,6 +2,11 @@
 
 > A Python-based automation tool for ZISU's educational administration system, designed to query and calculate academic grades, GPA, and comprehensive assessment scores.
 
+## Language
+
+- [English](README.md)
+- [Chinese](README-ZH.md)
+
 ## ✨ Feature Description
 
 ### [√] Completed Features
